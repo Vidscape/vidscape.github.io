@@ -1,4 +1,4 @@
-<a class="link1"href="https://?.com"a target="_blank">Description here</p>
+<p class="before-link-text">beforelinktexthere  </p> <a class="link1"href="https://?.com"a target="_blank">Description here</p> </a>
 
 
 
@@ -8,11 +8,24 @@
 .link1 {
   color:rgb(62, 166, 255);
   text-decoration: none;
+  font-family: "Roboto","Arial",sans-serif;
 
 }
 .link1:hover {
   color:rgb(25, 127, 216);
   text-decoration: underline;
+  font-family: "Roboto","Arial",sans-serif;
+}
+
+.before-link-text {
+  color:white;
+  display:inline-block;
+  font-family: "Roboto","Arial",sans-serif;
+}
+.tagss {
+  color:white;
+  display:inline-block;
+  font-family: "Roboto","Arial",sans-serif;
 }
 
 </style>
