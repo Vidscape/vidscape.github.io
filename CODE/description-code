@@ -1,0 +1,31 @@
+
+
+<p class="DESCRIPTIONOFVIDEO2">
+<p class="desc1">description-1</p>
+<p class="desc2">description-2</p>
+<p class="desc3">description-3</p>
+<p class="desc4">description-4</p>
+
+
+<p class="desc1">HERE IS THE LINK:<a class="link1"href="https://linkhere.com"a target="_blank">https://linkhere.com</p></a>
+
+
+
+<Style>
+.desc1 {
+    font-family: "Roboto","Arial",sans-serif;
+    color:white;
+  }
+  .desc2 {
+    font-family: "Roboto","Arial",sans-serif;
+    color:white;
+  }
+  .desc3 {
+    font-family: "Roboto","Arial",sans-serif;
+    color:white;
+  }
+  .desc4 {
+    font-family: "Roboto","Arial",sans-serif;
+    color:white;
+  }
+  </Style>

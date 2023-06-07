@@ -1,0 +1,25 @@
+<img class="warning-sign"src="images/WARNING.png"> 
+<h class="warning-about-bad-influence">Warning Here</h>
+
+
+
+<style>
+.warning-about-bad-influence {
+    color:red;
+    font-family: "Roboto","Arial",sans-serif;
+    font-style:oblique;
+    font-weight:bolder;
+  }
+
+.warning-about-bad-influence:hover {
+    color:rgb(255, 72, 0);
+    font-family: "Roboto","Arial",sans-serif;
+    font-style:oblique;
+    font-weight:bolder;
+  }
+
+.warning-sign {
+    max-block-size:30px;
+  }
+
+  </style>
