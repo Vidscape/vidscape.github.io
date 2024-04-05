@@ -1,3 +1,641 @@
 video {
     border-radius:4px;
 }
+
+
+
+
+
+
+
+       
+	/* --------- Custom ScrollBar CSS --------- */
+    ::-webkit-scrollbar {
+	width:15px;
+}
+
+::-webkit-scrollbar-track {
+background: rgb(255, 125, 125);
+
+}
+
+::-webkit-scrollbar-thumb {
+	border-radius: 10px;
+	background: linear-gradient(#fd0202, #c70202 )  ;
+}
+	/* --------- Custom ScrollBar CSS END --------- */
+    
+
+
+	/* --------- Custom Selection Color --------- */
+::selection {
+	color:rgb(1, 18, 41);
+	background-color: rgb(255, 98, 98);
+}
+	/* --------- Custom Selection Color CSS END --------- */
+
+
+
+
+body {
+background-color:#0f0f0f;
+font-family: "Roboto","Arial",sans-serif;
+}
+
+	/* --------- VIDEOSSS --------- */
+
+
+.JawedattheSanDeigoZoo {
+    display:inline-block;
+    margin-left:500px;
+    top:5px;
+}
+.YoQuenoTacobelll {
+    display:inline-block;
+    margin-left:25px;
+    top:5px;
+}
+.TheMarioDrawingSong {
+    display:inline-block;
+    margin-left:499px;
+    margin-top:15px;
+}
+.PRANK-VIDEO-NOT-MINE {
+    display:inline-block;
+    margin-left:25px;
+    top:5px;
+}
+.BKADWHOPPERWHOPPER {
+    display:inline-block;
+    margin-left:500px;
+    top:5px;
+}
+.TOWEROFPOWERLOL {
+    display:inline-block;
+    margin-left:25px;
+    top:5px;
+}
+.ALLSTARSHREK {
+    display:inline-block;
+    margin-left:500px;
+    top:5px;
+}
+.WIISAFETYVIDEOO {
+    display:inline-block;
+    margin-left:25px;
+    top:5px;
+}
+.DsiSAFETYVIDEOO {
+    display:inline-block;
+    margin-left:500px;
+    top:5px;
+}
+.SAFETY3DS {
+    display:inline-block;
+    margin-left:25px;
+    top:5px;
+}
+.MICKYMOUCECLASSICSONG {
+    display:inline-block;
+    margin-left:500px;
+    top:5px;
+}
+.MCDONALDS-IMLOVINIT {
+    display:inline-block;
+    margin-left:25px;
+    top:5px;
+}
+.HOMEDEPOTEPICTHEME {
+    display:inline-block;
+    margin-left:500px;
+    top:5px; 
+}
+.wiiplusinternetvideo {
+    display:inline-block;
+    margin-left:25px;
+    top:5px;
+}
+.DANCETILYOURDEADDD {
+    display:inline-block;
+    margin-left:500px;
+    top:5px;  
+}
+.GRANNYNORMAMEME {
+    display:inline-block;
+    margin-left:25px;
+    top:5px;   
+}
+.Anoyyingorange-videoo {
+    display:inline-block;
+    margin-left:500px;
+    top:5px;   
+}
+.RBLXGAMETRAILER {
+    display:inline-block;
+    margin-left:25px;
+    top:5px;   
+}
+.RBLX-OSH {
+    display:inline-block;
+    margin-left:500px;
+    top:5px;  
+}
+.DK64-DK-RAP {
+    display:inline-block;
+    margin-left:25px;
+    top:5px;  
+}
+.NyancatORIGIONALMEME {
+    display:inline-block;
+    margin-left:500px;
+    top:5px;    
+}
+.NYANCATGENREHOPPING {
+    display:inline-block;
+    margin-left:25px;
+    top:5px;   
+}
+.RealLifenyancat {
+    display:inline-block;
+    margin-left:500px;
+    top:5px;   
+}
+.ANNOUCNEMTN {
+    color:white;
+    font-weight:bolder;
+    text-align:justify;
+    font-size: 16px;
+    line-height: 1.4em;
+    padding: 14px 0;
+    margin-top: -8px;
+    margin-left:530px;
+    margin-right:-9px;
+}
+
+.keyboardKat {
+    display:inline-block;
+    margin-left:25px;
+    top:5px; 
+}
+.PBJTIME {
+    display:inline-block;
+    margin-left:500px;
+    top:5px;  
+}
+.PBJTIME-MORECHARCTERS {
+    display:inline-block;
+    margin-left:25px;
+    top:5px;  
+}
+.asdfmoviee {
+    display:inline-block;
+    margin-left:500px;
+    top:5px; 
+}
+.asdfmoviee2 {
+    display:inline-block;
+    margin-left:25px;
+    top:5px;
+}
+.asdfmoviee3 {
+    display:inline-block;
+    margin-left:500px;
+    top:5px; 
+}
+.asdfmoviee4 {
+    display:inline-block;
+    margin-left:25px;
+    top:5px;
+}
+.asdfmoviee5 {
+    display:inline-block;
+    margin-left:500px;
+    top:5px; 
+}
+.muffinsong {
+    display:inline-block;
+    margin-left:25px;
+    top:5px;
+}
+.vines-we-never-will-forget {
+    display:inline-block;
+    margin-left:500px;
+    top:5px; 
+}
+.bad-apple-videoo {
+    display:inline-block;
+    margin-left:25px;
+    top:5px;
+}
+.Dantdm-normalelevatorrblx {
+    display:inline-block;
+    margin-left:500px;
+    top:5px; 
+}
+.RBLXirl-HIDEANDSEEKEXTREME {
+    display:inline-block;
+    margin-left:25px;
+    top:5px;
+}
+.RBLX-ethangamer-ENOUGHOFSCHOOLLetsplayRoblox {
+    display:inline-block;
+    margin-left:500px;
+    top:5px; 
+}
+.SMG4-VIDEO {
+    display:inline-block;
+    margin-left:25px;
+    top:5px; 
+}
+.PopularMMOs-videoo {
+    display:inline-block;
+    margin-left:500px;
+    top:5px;  
+}
+.DenisDaily-videoo {
+    display:inline-block;
+    margin-left:25px;
+    top:5px; 
+}
+.DenisDaily-videoo-2 {
+    display:inline-block;
+    margin-left:500px;
+    top:5px; 
+}
+.Flamingo-videoo {
+    display:inline-block;
+    margin-left:25px;
+    top:5px; 
+}
+.GuavaJuice-videoo {
+    display:inline-block;
+    margin-left:500px;
+    top:5px;   
+}
+.WIINOTONLINEYET-videoo {
+    display:inline-block;
+    margin-left:25px;
+    top:5px; 
+}
+.WIIBUYINGAVCGAME-videoo {
+    display:inline-block;
+    margin-left:500px;
+    top:5px;   
+}
+
+.Wiifullvclistvideoo {
+    display:inline-block;
+    margin-left:25px;
+    top:5px; 
+}
+
+.wiishopisback {
+    display:inline-block;
+    margin-left:500px;
+    top:5px; 
+}
+.cmoc-wii-video {
+    display:inline-block;
+    margin-left:25px;
+    top:5px; 
+}
+.Mii-Commerical-1 {
+    display:inline-block;
+    margin-left:500px;
+    top:5px; 
+}
+.Mii-Commerical-2 {
+    display:inline-block;
+    margin-left:25px;
+    top:5px;    
+}
+.wiicommercialscomplation {
+    display:inline-block;
+    margin-left:500px;
+    top:5px; 
+}
+.SSB-Mii-Charcters-e3-2014-Wii-U {
+    display:inline-block;
+    margin-left:25px;
+    top:5px;    
+}
+
+.reggie-vs-iwawa-meme-2021 {
+    display:inline-block;
+    margin-left:500px;
+    top:5px;     
+}
+.Nintendo-puppets-e3-2015-vid {
+    display:inline-block;
+    margin-left:25px;
+    top:5px;   
+}
+.mk8voicesvideo {
+    display:inline-block;
+    margin-left:500px;
+    top:5px;   
+}
+.mkwvoicesvideo {
+    display:inline-block;
+    margin-left:25px;
+    top:5px;   
+}
+.Super-Mario-Ping-Pong-vid {
+    display:inline-block;
+    margin-left:500px;
+    top:5px;   
+}
+.Super-Mario-Ping-Pong-REMIX {
+    display:inline-block;
+    margin-left:25px;
+    top:5px;   
+}
+.SMB-theme-on-2-credit-card-machines {
+    display:inline-block;
+    margin-left:500px;
+    top:5px;   
+}
+.Minecraft-song-vid {
+    display:inline-block;
+    margin-left:25px;
+    top:5px;   
+}
+.CreeperAwMan-Revenge-VIDEO {
+    display:inline-block;
+    margin-left:500px;
+    top:5px;   
+}
+.MYBODYISREAD-VIDEO {
+    display:inline-block;
+    margin-left:25px;
+    top:5px;   
+}
+.e3-quotes-video {
+    display:inline-block;
+    margin-left:500px;
+    top:5px;    
+}
+.NintendoDirectquotesvid {
+    display:inline-block;
+    margin-left:25px;
+    top:5px;   
+}
+
+.SCT-WPDY {
+    display:inline-block;
+    margin-left:500px;
+    top:5px;   
+}
+.SCT-DYGSWP {
+    display:inline-block;
+    margin-left:25px;
+    top:5px;   
+}
+.SCT-PANHITAHHHHH {
+    display:inline-block;
+    margin-left:500px;
+    top:5px;    
+}
+.SCT-MYDSWONTTURNON {
+    display:inline-block;
+    margin-left:25px;
+    top:5px;   
+}
+.WSRAGING-POOF {
+    display:inline-block;
+    margin-left:500px;
+    top:5px;    
+}
+.WPRAGING-POOF {
+    display:inline-block;
+    margin-left:25px;
+    top:5px;   
+}
+.WIISPORTSOUTOFTHEPARK {
+    display:inline-block;
+    margin-left:500px;
+    top:5px;    
+}
+.WIISPORTSCORRUPT {
+    display:inline-block;
+    margin-left:25px;
+    top:5px;  
+}
+.WiiBreakingTV {
+    display:inline-block;
+    margin-left:500px;
+    top:5px;    
+}
+.MKWPLAYERBUG {
+    display:inline-block;
+    margin-left:25px;
+    top:5px;  
+}
+.ducksong1-vid {
+    display:inline-block;
+    margin-left:500px;
+    top:5px;    
+}
+.ducksong2-vid {
+    display:inline-block;
+    margin-left:25px;
+    top:5px;    
+}
+.ducksong3-vid {
+    display:inline-block;
+    margin-left:500px;
+    top:5px;    
+}
+.ducksongirl-vid {
+    display:inline-block;
+    margin-left:25px;
+    top:5px;    
+}
+.babylaughingmemevideo {
+    display:inline-block;
+    margin-left:500px;
+    top:5px;    
+}
+.vinesauce-vid-choicestvoice {
+    display:inline-block;
+    margin-left:25px;
+    top:5px;    
+}
+.vinesauce-funnybrokengame {
+    display:inline-block;
+    margin-left:500px;
+    top:5px;    
+}
+.miisded {
+    display:inline-block;
+    margin-left:25px;
+    top:5px;   
+}
+.jellyjammm-vid {
+    display:inline-block;
+    margin-left:500px;
+    top:5px;       
+}
+.SSSRemix-vid {
+    display:inline-block;
+    margin-left:25px;
+    top:5px;   
+}
+.IFPPLLAGGEDIRL-vid-1 {
+    display:inline-block;
+    margin-left:500px;
+    top:5px;   
+}
+.IFPPLLAGGEDIRL-vid-2 {
+    display:inline-block;
+    margin-left:25px;
+    top:5px;   
+}
+.RC24-video-removed-idk {
+    display:inline-block;
+    margin-left:500px;
+    top:5px;     
+}
+.CLIP-RC24-video-removed-idk {
+    display:inline-block;
+    margin-left:25px;
+    top:5px;     
+}
+.WIICONNECTIONAMBASSADORRAREE {
+    display:inline-block;
+    margin-left:500px;
+    top:5px;    
+}
+.MARIOANDFRIENDSSWIM {
+    display:inline-block;
+    margin-left:25px;
+    top:5px;    
+}
+.mariounderwator{
+    display:inline-block;
+    margin-left:500px;
+    top:5px;    
+}
+
+.MALGOTOTHEPARKK{
+    display:inline-block;
+    margin-left:25px;
+    top:5px;    
+}
+
+.the9-10-kid {
+    display:inline-block;
+    margin-left:500px;
+    top:5px;    
+}
+.aaabatteriesss {
+    display:inline-block;
+    margin-left:25px;
+    top:5px;    
+}
+.bowsermushroomfactoryy {
+    display:inline-block;
+    margin-left:500px;
+    top:5px;    
+}
+.Dancetildeadheg {
+    display:inline-block;
+    margin-left:25px;
+    top:5px;    
+}
+.Flextapeeeee1 {
+    display:inline-block;
+    margin-left:500px;
+    top:5px;   
+}
+.Flextapeeeee2 {
+    display:inline-block;
+    margin-left:25px;
+    top:5px;       
+}
+.imgonnatalkpower {
+    display:inline-block;
+    margin-left:500px;
+    top:5px;   
+}
+.crazyvinekid {
+    display:inline-block;
+    margin-left:25px;
+    top:5px;   
+}
+.LMFLI {
+    display:inline-block;
+    margin-left:500px;
+    top:5px;   
+}
+.TBUNMM {
+    display:inline-block;
+    margin-left:25px;
+    top:5px;     
+}
+.LUIGISTARDANCE {
+    display:inline-block;
+    margin-left:500px;
+    top:5px;     
+}
+.tspb-m-lpark {
+    display:inline-block;
+    margin-left:25px;
+    top:5px;   
+}
+.tspb-w-wpark {
+    display:inline-block;
+    margin-left:500px;
+    top:5px;   
+}
+.NC-RS {
+    display:inline-block;
+    margin-left:25px;
+    top:5px;   
+}
+.ohmygawddd {
+    display:inline-block;
+    margin-left:500px;
+    top:5px;   
+}
+.OURTABLE {
+    display:inline-block;
+    margin-left:25px;
+    top:5px;   
+}
+.UJUSTGOTMINECRAFT {
+    display:inline-block;
+    margin-left:500px;
+    top:5px;   
+}
+
+.SMIRL {
+    display:inline-block;
+    margin-left:25px;
+    top:5px;   
+}
+.Vine-booom {
+    display:inline-block;
+    margin-left:500px;
+    top:5px;   
+}
+.WAT {
+    display:inline-block;
+    margin-left:25px;
+    top:5px;   
+}
+.nintendodancedirect {
+    display:inline-block;
+    margin-left:500px;
+    top:5px;   
+}
+.R-WWWW {
+    display:inline-block;
+    margin-left:25px;
+    top:5px;   
+}
+.COOKIGNWITHMARIOO {
+    display:inline-block;
+    margin-left:500px;
+    top:5px;   
+}
